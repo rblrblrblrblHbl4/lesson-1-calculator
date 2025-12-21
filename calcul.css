@@ -3,5 +3,24 @@
     width: 500px;
     margin: 0 auto;
     text-align: center;
+    background-color: rgb(164, 148, 179);
+    padding: 20px;
+    border: 1px solid black;
+
+}
+.one-calcul .inputs-block .input label {
+    display: block;
+
+} 
+.one-calcul .inputs-block .input {
+    display: inline-block;
+    padding: 10px;
+} 
+
+.one-calcul .operators-block button {
+width: 50px;
+height: 50px;
+margin: 10px;
+
 
 }
